@@ -240,11 +240,13 @@ namespace Datos
 
                 // Consulta Sql Server
 
-                jquery = string.Format(@"delete from {0} where {1} = {2}", typeof(T).Name, properties[0].Name, id);
+                jquery = string.Format(@"delete from {0} where {1} = @Id", typeof(T).Name, properties[0].Name);
 
                 cmd = new SqlCommand(jquery, con);
 
                 cmd.CommandType = CommandType.Text;
+
+                cmd.Parameters.AddWithValue("@Id", id);
 
                 // respuesta de Sql Server
 
