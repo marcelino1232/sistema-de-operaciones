@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\pruevaConsola\\pruevaConsola.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\MARCELINO-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MARCELINO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\Entidad.csproj": {
+                "projectPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\Entidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\Entidad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\Entidad.csproj",
+        "projectName": "Entidad",
+        "projectPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\Entidad.csproj",
+        "packagesPath": "C:\\Users\\MARCELINO-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MARCELINO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\pruevaConsola\\pruevaConsola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\pruevaConsola\\pruevaConsola.csproj",
+        "projectName": "pruevaConsola",
+        "projectPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\pruevaConsola\\pruevaConsola.csproj",
+        "packagesPath": "C:\\Users\\MARCELINO-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\pruevaConsola\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MARCELINO-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Datos\\Datos.csproj"
+              },
+              "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\Entidad.csproj": {
+                "projectPath": "C:\\Users\\MARCELINO-PC\\source\\repos\\pruevaConsola\\Entidad\\Entidad.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\bin\Debug\netcoreapp3.1\Entidad.deps.json
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\bin\Debug\netcoreapp3.1\Entidad.dll
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\bin\Debug\netcoreapp3.1\Entidad.pdb
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\obj\Debug\netcoreapp3.1\Entidad.csprojAssemblyReference.cache
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfoInputs.cache
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\obj\Debug\netcoreapp3.1\Entidad.AssemblyInfo.cs
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\obj\Debug\netcoreapp3.1\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\obj\Debug\netcoreapp3.1\Entidad.dll
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Entidad\obj\Debug\netcoreapp3.1\Entidad.pdb
