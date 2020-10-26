@@ -129,7 +129,7 @@ namespace Datos
 
                 for (int i = 1; i < properties.Length; i++)
                 {
-                    cmd.Parameters.AddWithValue(properties[i].Name, properties[i].GetValue(obj));
+                    cmd.Parameters.AddWithValue("@" + properties[i].Name, properties[i].GetValue(obj));
                 }
 
                 // respuesta de Sql Server
@@ -195,7 +195,7 @@ namespace Datos
 
                 for (int i = 1; i < properties.Length; i++)
                 {
-                    cmd.Parameters.AddWithValue(properties[i].Name, properties[i].GetValue(obj));
+                    cmd.Parameters.AddWithValue("@" + properties[i].Name, properties[i].GetValue(obj));
                 }
 
                 // respuesta de Sql Server
