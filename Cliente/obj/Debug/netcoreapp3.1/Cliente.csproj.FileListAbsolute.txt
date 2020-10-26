@@ -1,0 +1,13 @@
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\bin\Debug\netcoreapp3.1\Cliente.exe
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\bin\Debug\netcoreapp3.1\Cliente.deps.json
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.json
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\bin\Debug\netcoreapp3.1\Cliente.runtimeconfig.dev.json
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\bin\Debug\netcoreapp3.1\Cliente.dll
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\bin\Debug\netcoreapp3.1\Cliente.pdb
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\obj\Debug\netcoreapp3.1\Cliente.csprojAssemblyReference.cache
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfoInputs.cache
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\obj\Debug\netcoreapp3.1\Cliente.AssemblyInfo.cs
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\obj\Debug\netcoreapp3.1\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\obj\Debug\netcoreapp3.1\Cliente.dll
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\obj\Debug\netcoreapp3.1\Cliente.pdb
+C:\Users\MARCELINO-PC\OneDrive\Escritorio\SistemaOperaciones\sistema-de-operaciones\Cliente\obj\Debug\netcoreapp3.1\Cliente.genruntimeconfig.cache
