@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Entidad
+﻿namespace Entidad
 {
     public class Sexo
     {

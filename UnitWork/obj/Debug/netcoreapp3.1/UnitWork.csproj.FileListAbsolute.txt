@@ -1,9 +1,0 @@
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\bin\Debug\netcoreapp3.1\UnitWork.deps.json
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\bin\Debug\netcoreapp3.1\UnitWork.dll
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\bin\Debug\netcoreapp3.1\UnitWork.pdb
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\obj\Debug\netcoreapp3.1\UnitWork.AssemblyInfoInputs.cache
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\obj\Debug\netcoreapp3.1\UnitWork.AssemblyInfo.cs
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\obj\Debug\netcoreapp3.1\UnitWork.csproj.CoreCompileInputs.cache
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\obj\Debug\netcoreapp3.1\UnitWork.dll
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\obj\Debug\netcoreapp3.1\UnitWork.pdb
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\UnitWork\obj\Debug\netcoreapp3.1\UnitWork.csprojAssemblyReference.cache

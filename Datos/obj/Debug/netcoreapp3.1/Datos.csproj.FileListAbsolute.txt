@@ -1,5 +1,4 @@
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\bin\Debug\netcoreapp3.1\Entidad.dll
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\bin\Debug\netcoreapp3.1\UnitWork.dll
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.csprojAssemblyReference.cache
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfoInputs.cache
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.AssemblyInfo.cs
@@ -7,8 +6,7 @@ C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\bin\Debug\netcoreapp3.1\D
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\bin\Debug\netcoreapp3.1\Datos.dll
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\bin\Debug\netcoreapp3.1\Datos.pdb
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\bin\Debug\netcoreapp3.1\Entidad.pdb
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\bin\Debug\netcoreapp3.1\UnitWork.pdb
-C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CopyComplete
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.dll
 C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.pdb
+C:\Users\MARCELINO-PC\source\repos\pruevaConsola\Datos\obj\Debug\netcoreapp3.1\Datos.csproj.CoreCompileInputs.cache

@@ -1,14 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Entidad;
 
 namespace Datos
 {
-    public class Repositorio<T> : OperacionesDB<T> where T : class
+    public class Repositorio 
     {
-        public  Repositorio() : base("Data Source=DESKTOP-EAAM30S;Initial Catalog=Consola;Integrated Security=True")
-        {
-
-        }
+        public DbSet<Persona> persona { get; set; } = new DbSet<Persona>();
+        public DbSet<Sexo> sexo { get; set; } = new DbSet<Sexo>();
+        public DbSet<Venta> venta { get; set; } = new DbSet<Venta>();
+        public DbSet<Producto> producto { get; set; } = new DbSet<Producto>();
+        public DbSet<Cliente> cliente { get; set; } = new DbSet<Cliente>();
     }
 }

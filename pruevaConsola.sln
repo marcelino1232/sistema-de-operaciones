@@ -3,13 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruevaConsola", "pruevaConsola\pruevaConsola.csproj", "{4FC15585-C641-49F9-ACFF-343EF3A765C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pruevaConsola", "pruevaConsola\pruevaConsola.csproj", "{4FC15585-C641-49F9-ACFF-343EF3A765C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidad", "Entidad\Entidad.csproj", "{4FF169E4-DFF2-4613-9A4F-54CA7147E6FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entidad", "Entidad\Entidad.csproj", "{4FF169E4-DFF2-4613-9A4F-54CA7147E6FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{568F6D81-1A5F-43C2-95EB-0C9B0937DC25}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitWork", "UnitWork\UnitWork.csproj", "{47D9C176-825D-43FA-A9DD-D2008C3652C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datos", "Datos\Datos.csproj", "{568F6D81-1A5F-43C2-95EB-0C9B0937DC25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +27,6 @@ Global
 		{568F6D81-1A5F-43C2-95EB-0C9B0937DC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{568F6D81-1A5F-43C2-95EB-0C9B0937DC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{568F6D81-1A5F-43C2-95EB-0C9B0937DC25}.Release|Any CPU.Build.0 = Release|Any CPU
-		{47D9C176-825D-43FA-A9DD-D2008C3652C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{47D9C176-825D-43FA-A9DD-D2008C3652C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{47D9C176-825D-43FA-A9DD-D2008C3652C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{47D9C176-825D-43FA-A9DD-D2008C3652C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
